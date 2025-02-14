@@ -1,0 +1,9 @@
+body {
+  margin: 30px;
+  position: absolute;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+  padding-left: 40%;
+  padding-top: 30%;
+}
